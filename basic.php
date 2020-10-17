@@ -15,7 +15,7 @@ if(isset($_POST['pass']))
 
 echo $user."<br>". $pass;
 
-
+echo $user."<br>".$pass;
 
 //print_r($_POST);
 ?>
